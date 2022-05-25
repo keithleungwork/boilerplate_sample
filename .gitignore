@@ -1,0 +1,4 @@
+# Whitelist extensions.json
+!.vscode
+.vscode/*
+!.vscode/extensions.json

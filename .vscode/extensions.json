@@ -1,0 +1,27 @@
+{
+  "recommendations": [
+    "aaron-bond.better-comments",
+    "amazonwebservices.aws-toolkit-vscode",
+    "bradlc.vscode-tailwindcss",
+    "codezombiech.gitignore",
+    "dchanco.vsc-invoke",
+    "eamodio.gitlens",
+    "GrapeCity.gc-excelviewer",
+    "hediet.vscode-drawio",
+    "HookyQR.beautify",
+    "jairhenrique.pytest-snippets",
+    "mikestead.dotenv",
+    "ms-azuretools.vscode-docker",
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "ms-toolsai.jupyter",
+    "ms-vscode-remote.remote-ssh",
+    "ms-vscode-remote.remote-ssh-edit",
+    "ms-vscode.makefile-tools",
+    "njpwerner.autodocstring",
+    "octref.vetur",
+    "valmack.circleci-config-validator",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "yzhang.markdown-all-in-one"
+  ]
+}
