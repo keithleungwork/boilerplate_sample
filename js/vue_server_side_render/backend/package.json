@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "serve:api": "nodemon -e js --watch src src/server.js",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.3",
+    "vue": "^2.6.14",
+    "vue-server-renderer": "^2.6.14"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "nodemon": "^2.0.16"
+  },
+  "author": "",
+  "license": "ISC"
+}
