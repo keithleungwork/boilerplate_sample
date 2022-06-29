@@ -1,0 +1,9 @@
+# Packages
+node_modules/
+
+# Additional things
+package-lock.json
+.vscode
+
+# compile
+dist

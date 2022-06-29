@@ -1,0 +1,13 @@
+FROM node:16-alpine
+
+# make the 'app' folder the current working directory
+WORKDIR /app
+
+COPY frontend .
+
+RUN npm i
+
+# Front-end
+EXPOSE 8080
+
+CMD [ "npm", "run", "serve" ]
